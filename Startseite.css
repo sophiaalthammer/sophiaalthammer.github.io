@@ -81,7 +81,7 @@
 }
 
 .u-section-1 .u-line-1 {
-  width: 862px;
+  width: 847px;
   height: 3px;
   transform-origin: left center 0px;
   margin: 10px auto 0 7px;
@@ -92,7 +92,7 @@
 }
 
 .u-section-1 .u-text-7 {
-  margin: -288px 99px 0 193px;
+  margin: -288px 128px 0 193px;
 }
 
 .u-section-1 .u-btn-2 {
@@ -138,7 +138,7 @@
 }
 
 .u-section-1 .u-line-2 {
-  width: 862px;
+  width: 846px;
   height: 3px;
   transform-origin: left center 0px;
   margin: 10px auto 0 12px;
@@ -149,7 +149,7 @@
 }
 
 .u-section-1 .u-text-10 {
-  margin: -240px 114px 0 193px;
+  margin: -240px 180px 0 193px;
 }
 
 .u-section-1 .u-list-4 {
@@ -173,7 +173,7 @@
 }
 
 .u-section-1 .u-line-3 {
-  width: 862px;
+  width: 847px;
   height: 3px;
   transform-origin: left center 0px;
   margin: 10px auto 0 12px;
@@ -184,7 +184,7 @@
 }
 
 .u-section-1 .u-text-13 {
-  margin: -240px 110px 0 193px;
+  margin: -240px 164px 0 193px;
 }
 
 @media (max-width: 1199px) {
@@ -208,7 +208,7 @@
   }
 
   .u-section-1 .u-text-7 {
-    margin-right: 85px;
+    margin-right: 114px;
     margin-left: 179px;
   }
 
@@ -228,7 +228,7 @@
   }
 
   .u-section-1 .u-text-10 {
-    margin-right: 92px;
+    margin-right: 158px;
     margin-left: 171px;
   }
 
@@ -248,7 +248,7 @@
   }
 
   .u-section-1 .u-text-13 {
-    margin-right: 88px;
+    margin-right: 142px;
     margin-left: 171px;
   }
 }
@@ -274,8 +274,8 @@
   }
 
   .u-section-1 .u-text-7 {
-    margin-right: 0;
-    margin-left: 44px;
+    margin-right: 4px;
+    margin-left: 69px;
   }
 
   .u-section-1 .u-list-3 {
@@ -298,8 +298,8 @@
   }
 
   .u-section-1 .u-text-10 {
-    margin-right: 0;
-    margin-left: 43px;
+    margin-right: 48px;
+    margin-left: 61px;
   }
 
   .u-section-1 .u-list-4 {
@@ -322,8 +322,8 @@
   }
 
   .u-section-1 .u-text-13 {
-    margin-right: 0;
-    margin-left: 39px;
+    margin-right: 32px;
+    margin-left: 61px;
   }
 }
 
@@ -351,6 +351,7 @@
   }
 
   .u-section-1 .u-text-7 {
+    margin-right: 0;
     margin-left: 0;
   }
 
@@ -367,6 +368,7 @@
   }
 
   .u-section-1 .u-text-10 {
+    margin-right: 0;
     margin-left: 0;
   }
 
@@ -383,6 +385,7 @@
   }
 
   .u-section-1 .u-text-13 {
+    margin-right: 0;
     margin-left: 0;
   }
 }
